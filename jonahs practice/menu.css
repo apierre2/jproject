@@ -1,0 +1,18 @@
+body{font-size: 12pt;
+font-family: cursive;
+font-style: bold;
+color: white;
+background-color: rgb(161, 9, 161);
+}
+
+h1{color: white;
+font-size: 60pt;
+font-family: cursive;
+font-style: italic; 
+font-style: bold;
+text-align: center;
+}
+
+h2{color: black;
+margin-right: 25mm;
+}

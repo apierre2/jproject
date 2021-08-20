@@ -1,0 +1,20 @@
+body{font-size: 14pt;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+color: black;
+background-color: rgb(219, 216, 216);
+}
+
+.green{position: relative;
+bottom: 0mm;
+margin-left: 3in;
+margin-right: 3in;
+padding: 1in;
+}
+
+h6{font-size: 25pt;
+font-family: cursive;
+font-style: bold;
+color: rgb(14, 13, 13);
+text-align: center;
+}
